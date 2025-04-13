@@ -32,9 +32,9 @@
     <!--<script src="./android.js"></script>-->
     <script src="./index.js"></script>
     <script>
-        if (typeof navigator.serviceWorker !== 'undefined') {
-            navigator.serviceWorker.register('sw.js')
-        }
+        try {
+            navigator.serviceWorker.register('./sw.js');
+        } catch(e) {};
     </script>
 </body>
 </html>
