@@ -1,9 +1,9 @@
 {
   "name": "Toilet Treasures",
   "short_name": "Toilet Treasures",
-  "start_url": "/index.html?mode=standalone",
+  "start_url": "/Toilet-Treasures-Public/index.html?mode=standalone",
   "display": "fullscreen",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "description": "Toilet Treasures is a fun game where you search toilets for hidden items.",
