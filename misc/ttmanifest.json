@@ -1,0 +1,22 @@
+{
+  "name": "Toilet Treasures",
+  "short_name": "ToiletTreasures",
+  "start_url": "/misc/toilettreasures.html?mode=standalone",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "What's in the toilet?",
+  "icons": [
+    {
+      "src": "/images/tticon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/tticon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
