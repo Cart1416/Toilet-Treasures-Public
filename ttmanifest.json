@@ -9,12 +9,12 @@
   "description": "Toilet Treasures is a fun game where you search toilets for hidden items.",
   "icons": [
     {
-      "src": "/images/tticon.png",
+      "src": "/Toilet-Treasures-Public/images/tticon.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/images/tticon2.png",
+      "src": "/Toilet-Treasures-Public/images/tticon2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
