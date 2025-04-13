@@ -1,7 +1,7 @@
 {
   "name": "Toilet Treasures",
-  "short_name": "Toilet Treasures",
-  "start_url": "/Toilet-Treasures-Public/index.html?mode=standalone",
+  "short_name": "Toilet T",
+  "start_url": "/Toilet-Treasures-Public/index.html",
   "display": "fullscreen-sticky",
   "orientation": "portrait",
   "background_color": "#ffffff",
